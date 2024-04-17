@@ -1,7 +1,5 @@
 import './App.css';
 import { useState } from 'react';
-import ReactMarkdown from 'react-markdown';
-import { FaStar } from 'react-icons/fa';
 import { FaCube } from 'react-icons/fa';
 import { FaArrowCircleUp } from 'react-icons/fa';
 import { marked } from 'marked';
